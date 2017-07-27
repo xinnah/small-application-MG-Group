@@ -1,0 +1,19 @@
+.slide_upload{width: 150px;height: 100px;position: relative;cursor: pointer;background: #eee;}
+.slide_upload img{width: 150px;height: 100px;border: 1px dashed #999;padding: 2px;}
+.slide_upload::before{content: "+";position: absolute;top: 50%;color: #ccc;left: 50%;font-size: 52px;margin-left: -17px;margin-top: -37px;}
+
+div.dataTables_wrapper div.dataTables_filter input {width: auto !important;}
+.input-sm {width: auto !important;}
+.create_button{width: 20%;margin:0 auto;}
+form{display: inline;}
+
+/*billing invoice print page */
+.invoice_ganarat{width: 100%; overflow: hidden; margin: 0 auto;}
+.invoice_left{width: 49%; float: left; padding-right: 1%; border-right: 2px dotted #ccc; }
+.invoice_right{width: 49%; float: right; }
+.invoice_top{width: 100%; margin: 0 auto; overflow: hidden;}
+.invoice_top_left{width: 50%; float: left; overflow: hidden;}
+.invoice_company_logo{width: 50%; height: 50px;}
+.invoice_top_left img{width: auto; height: 100%;}
+.invoice_top_right{width: 50%; float: right; overflow: hidden;}
+.copy{width: 110px; border: 1px solid #999; padding: 4px 8px; margin-bottom: 8px;}

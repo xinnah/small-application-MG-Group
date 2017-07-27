@@ -1,0 +1,4 @@
+[13-Dec-2016 05:02:48 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/onuvromo/public_html/app/Http/Controllers/ArticleController.php on line 517
+[13-Dec-2016 10:14:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/onuvromo/public_html/storage/framework/views/e1d29db365fce83e831c9e09ceae17c7bd22fc3c.php on line 375
+[16-Dec-2016 06:08:25 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/onuvromo/public_html/storage/framework/views/0f2b7a589d9dea8407973b4d24deadf2e8db04c3.php on line 6
+[16-Dec-2016 06:09:09 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/onuvromo/public_html/storage/framework/views/0f2b7a589d9dea8407973b4d24deadf2e8db04c3.php on line 6
